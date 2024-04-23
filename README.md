@@ -8,6 +8,8 @@ Guide Running Program:
 
 
 Jika render code tidak berhasil pada github display, berikut link github gist yang dapat digunakan maupun link google collab
+
+
 [Git Hub Gist](https://colab.research.google.com/gist/Leo-gunadarma/96eb5a19bc4e1813b0c6697433eeb4de/1905551047-i-ketut-agus-leo-gunadarma-analisis-perbandingan-kinerja-algoritma-k-nearest-neighbours-k-nn-dan-na-ve-bayes-untuk-analisis-sentimen-review-aplikasi-pinjaman-online-x.ipynb)
 
 [Google Collabs](https://colab.research.google.com/drive/14QjCrceUg2AUOd0P1lYBF8yMZh-lUiqO?usp=sharing)
